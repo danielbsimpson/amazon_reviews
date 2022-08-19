@@ -1,2 +1,3 @@
-# amazon_reviews
-Natural Language Processing project on amazon review data
+# Natural Language processing
+Natural Language Processing project on various text data.
+Word clouds and sentiment analysis are used.
